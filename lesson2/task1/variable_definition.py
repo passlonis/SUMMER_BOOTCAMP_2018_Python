@@ -7,6 +7,6 @@ print("a = " + str(a))   # Explicaremos la expresión str(a) más adelante en el
 print("b = " + str(b))
 
 saludos = "saludos" # greetings
-print("saludos = " + str(saludos))
+print("saludos = " + saludos)
 saludos = 3
 print("saludos = " + str(saludos))
